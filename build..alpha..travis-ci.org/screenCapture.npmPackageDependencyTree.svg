@@ -1,0 +1,56 @@
+<svg height="846" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="846" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">5 megabytes</tspan>
+<tspan x="10" y="42">└─┬ npm-cache@0.6.5 </tspan>
+<tspan x="10" y="58">  ├── async@1.5.0 </tspan>
+<tspan x="10" y="74">  ├─┬ fs-extra@0.26.7 </tspan>
+<tspan x="10" y="90">  │ ├── graceful-fs@4.1.11 </tspan>
+<tspan x="10" y="106">  │ ├── jsonfile@2.4.0 </tspan>
+<tspan x="10" y="122">  │ ├── klaw@1.3.1 </tspan>
+<tspan x="10" y="138">  │ └── path-is-absolute@1.0.1 </tspan>
+<tspan x="10" y="154">  ├─┬ fstream@1.0.11 </tspan>
+<tspan x="10" y="170">  │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="186">  │ └─┬ mkdirp@0.5.1 </tspan>
+<tspan x="10" y="202">  │   └── minimist@0.0.8 </tspan>
+<tspan x="10" y="218">  ├── lodash@3.10.1 </tspan>
+<tspan x="10" y="234">  ├─┬ md5@2.0.0 </tspan>
+<tspan x="10" y="250">  │ ├── charenc@0.0.2 </tspan>
+<tspan x="10" y="266">  │ ├── crypt@0.0.2 </tspan>
+<tspan x="10" y="282">  │ └── is-buffer@1.0.2 </tspan>
+<tspan x="10" y="298">  ├─┬ nomnom@1.8.1 </tspan>
+<tspan x="10" y="314">  │ ├─┬ chalk@0.4.0 </tspan>
+<tspan x="10" y="330">  │ │ ├── ansi-styles@1.0.0 </tspan>
+<tspan x="10" y="346">  │ │ ├── has-color@0.1.7 </tspan>
+<tspan x="10" y="362">  │ │ └── strip-ansi@0.1.1 </tspan>
+<tspan x="10" y="378">  │ └── underscore@1.6.0 </tspan>
+<tspan x="10" y="394">  ├─┬ rimraf@2.6.1 </tspan>
+<tspan x="10" y="410">  │ └─┬ glob@7.1.1 </tspan>
+<tspan x="10" y="426">  │   ├── fs.realpath@1.0.0 </tspan>
+<tspan x="10" y="442">  │   ├─┬ inflight@1.0.6 </tspan>
+<tspan x="10" y="458">  │   │ └── wrappy@1.0.2 </tspan>
+<tspan x="10" y="474">  │   ├─┬ minimatch@3.0.3 </tspan>
+<tspan x="10" y="490">  │   │ └─┬ brace-expansion@1.1.6 </tspan>
+<tspan x="10" y="506">  │   │   ├── balanced-match@0.4.2 </tspan>
+<tspan x="10" y="522">  │   │   └── concat-map@0.0.1 </tspan>
+<tspan x="10" y="538">  │   └── once@1.4.0 </tspan>
+<tspan x="10" y="554">  ├── shelljs@0.5.3 </tspan>
+<tspan x="10" y="570">  ├─┬ tar-fs@1.14.0 </tspan>
+<tspan x="10" y="586">  │ ├─┬ pump@1.0.2 </tspan>
+<tspan x="10" y="602">  │ │ └── end-of-stream@1.4.0 </tspan>
+<tspan x="10" y="618">  │ └─┬ tar-stream@1.5.2 </tspan>
+<tspan x="10" y="634">  │   ├── bl@1.2.0 </tspan>
+<tspan x="10" y="650">  │   ├─┬ readable-stream@2.2.7 </tspan>
+<tspan x="10" y="666">  │   │ ├── buffer-shims@1.0.0 </tspan>
+<tspan x="10" y="682">  │   │ ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="698">  │   │ ├── isarray@1.0.0 </tspan>
+<tspan x="10" y="714">  │   │ ├── process-nextick-args@1.0.7 </tspan>
+<tspan x="10" y="730">  │   │ ├── string_decoder@1.0.0 </tspan>
+<tspan x="10" y="746">  │   │ └── util-deprecate@1.0.2 </tspan>
+<tspan x="10" y="762">  │   └── xtend@4.0.1 </tspan>
+<tspan x="10" y="778">  ├─┬ tmp@0.0.28 </tspan>
+<tspan x="10" y="794">  │ └── os-tmpdir@1.0.2 </tspan>
+<tspan x="10" y="810">  └─┬ which@1.2.14 </tspan>
+<tspan x="10" y="826">    └── isexe@2.0.0</tspan>
+</text>
+</svg>
