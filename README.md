@@ -1,4 +1,7 @@
-# api documentation for  [npm-cache (v0.6.5)](https://github.com/swarajban/npm-cache)  [![npm package](https://img.shields.io/npm/v/npmdoc-npm-cache.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-npm-cache) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-npm-cache.svg)](https://travis-ci.org/npmdoc/node-npmdoc-npm-cache)
+# npmdoc-npm-cache
+
+#### api documentation for  [npm-cache (v0.6.5)](https://github.com/swarajban/npm-cache)  [![npm package](https://img.shields.io/npm/v/npmdoc-npm-cache.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-npm-cache) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-npm-cache.svg)](https://travis-ci.org/npmdoc/node-npmdoc-npm-cache)
+
 #### cache dependency manager installs to local machine
 
 [![NPM](https://nodei.co/npm/npm-cache.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/npm-cache)
@@ -18,20 +21,34 @@
 ```json
 
 {
-    "author": {
-        "name": "swaraj"
+    "name": "npm-cache",
+    "version": "0.6.5",
+    "description": "cache dependency manager installs to local machine",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/swarajban/npm-cache.git"
     },
-    "bin": {
-        "npm-cache": "index.js"
-    },
-    "bugs": {
-        "url": "https://github.com/swarajban/npm-cache/issues"
-    },
+    "keywords": [
+        "npm",
+        "cache",
+        "install",
+        "bower",
+        "jspm",
+        "composer",
+        "local"
+    ],
+    "author": "swaraj",
     "contributors": [
         {
             "name": "Aaron Nordyke"
         }
     ],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/swarajban/npm-cache/issues"
+    },
+    "homepage": "https://github.com/swarajban/npm-cache",
     "dependencies": {
         "async": "1.5.0",
         "fs-extra": "^0.26.2",
@@ -45,40 +62,10 @@
         "tmp": "^0.0.28",
         "which": "^1.2.0"
     },
-    "description": "cache dependency manager installs to local machine",
-    "devDependencies": {},
-    "directories": {},
-    "dist": {
-        "shasum": "096e81fbd53cd4252ef1f79c5ecbc49b95ceef5c",
-        "tarball": "https://registry.npmjs.org/npm-cache/-/npm-cache-0.6.5.tgz"
-    },
-    "gitHead": "dcc12d1acc94ead195dd2c4d2526a3f88053a806",
-    "homepage": "https://github.com/swarajban/npm-cache",
-    "keywords": [
-        "npm",
-        "cache",
-        "install",
-        "bower",
-        "jspm",
-        "composer",
-        "local"
-    ],
-    "license": "MIT",
-    "main": "index.js",
-    "maintainers": [
-        {
-            "name": "swaraj"
-        }
-    ],
-    "name": "npm-cache",
-    "optionalDependencies": {},
     "preferGlobal": true,
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/swarajban/npm-cache.git"
-    },
-    "scripts": {},
-    "version": "0.6.5"
+    "bin": {
+        "npm-cache": "index.js"
+    }
 }
 ```
 
