@@ -1,7 +1,7 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
     "buildNpmdoc": "npm-cache",
-    "description": "#### api documentation for  [npm-cache (v0.6.5)](https://github.com/swarajban/npm-cache)  [![npm package](https://img.shields.io/npm/v/npmdoc-npm-cache.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-npm-cache) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-npm-cache.svg)](https://travis-ci.org/npmdoc/node-npmdoc-npm-cache)",
+    "description": "#### basic api documentation for  [npm-cache (v0.6.5)](https://github.com/swarajban/npm-cache)  [![npm package](https://img.shields.io/npm/v/npmdoc-npm-cache.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-npm-cache) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-npm-cache.svg)](https://travis-ci.org/npmdoc/node-npmdoc-npm-cache)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "npm-cache": "*",
@@ -36,5 +36,5 @@
         "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.3"
+    "version": "2017.4.27"
 }
